@@ -1,0 +1,45 @@
+.heading {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    /* font-style: italic; */
+    font-size: 32px;
+}
+
+.subheading {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 22px;
+}
+
+.content {
+    font-family: "Merriweather", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+    font-size: 16px;   
+    line-height: 1.6; 
+}
+
+.subtext {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;   
+    line-height: 1.4;
+    color: rgb(131, 131, 131);
+}
+
+.link {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}

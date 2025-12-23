@@ -1,0 +1,268 @@
+.lato-thin {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.lato-light {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lato-bold {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.lato-black {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.lato-thin-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.lato-light-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.lato-regular-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.lato-bold-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.lato-black-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+.merriweather-300 {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.merriweather-400 {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.merriweather-500 {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.merriweather-600 {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.merriweather-700 {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.merriweather-800 {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.merriweather-900 {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.playfair-display-400 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.playfair-display-500 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.playfair-display-600 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.playfair-display-700 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.playfair-display-800 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.playfair-display-900 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.montserrat-100 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.montserrat-200 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.montserrat-300 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.montserrat-400 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.montserrat-500 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.montserrat-600 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.montserrat-700 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.montserrat-800 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.montserrat-900 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.google-sans-code-300 {
+  font-family: "Google Sans Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.google-sans-code-400 {
+  font-family: "Google Sans Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.google-sans-code-500 {
+  font-family: "Google Sans Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.google-sans-code-600 {
+  font-family: "Google Sans Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.google-sans-code-700 {
+  font-family: "Google Sans Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.google-sans-code-800 {
+  font-family: "Google Sans Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}

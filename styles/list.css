@@ -1,0 +1,12 @@
+ul {
+  list-style-type: square;
+}
+
+li::marker {
+  color: rgb(139, 139, 139); /* Or any other color value like #00FF00, rgb(0, 0, 255) */
+  /* font-size: 12px; */
+}
+
+li {
+  margin-bottom: 8px;
+}

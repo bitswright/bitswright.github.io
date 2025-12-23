@@ -1,0 +1,10 @@
+body {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+#content-div {
+    width: 700px;
+    /* justify-self: center; */
+    margin-top: 100px;
+}
