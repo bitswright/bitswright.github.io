@@ -1,0 +1,17 @@
+/* Default = Light Mode */
+:root {
+  --bg-color: #FAFAFA;
+  --secondary-section-bg-color: #F1F3F5;
+  --card-color: #FFFFFF;
+  --primary-text-color: #111827;
+  --secondary-text-color: #6B7280;
+}
+
+/* Dark Mode */
+[current-theme="dark"] {
+  --bg-color: #0F172A;
+  --secondary-section-bg-color: #111827;
+  --card-color: #1F2937;
+  --primary-text-color: #F9FAFB;
+  --secondary-text-color: #9CA3AF;
+}
