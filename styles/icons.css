@@ -1,0 +1,16 @@
+.social-icon {
+    width: 60px;
+    height: 60px;
+
+    color: var(--secondary-text-color);
+
+    margin-right: 10px;
+}
+
+.social-icon:visited {
+    color: var(--secondary-text-color);
+}
+
+.social-icon:hover {
+    color: var(--primary-text-color);
+}
